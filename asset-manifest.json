@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-on-ghp-spike/static/css/main.073c9b0a.css",
+    "main.js": "/react-on-ghp-spike/static/js/main.51056cbd.js",
+    "static/js/787.967b36f8.chunk.js": "/react-on-ghp-spike/static/js/787.967b36f8.chunk.js",
+    "static/media/logo.svg": "/react-on-ghp-spike/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-on-ghp-spike/index.html",
+    "main.073c9b0a.css.map": "/react-on-ghp-spike/static/css/main.073c9b0a.css.map",
+    "main.51056cbd.js.map": "/react-on-ghp-spike/static/js/main.51056cbd.js.map",
+    "787.967b36f8.chunk.js.map": "/react-on-ghp-spike/static/js/787.967b36f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.51056cbd.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "react-on-ghp-spike",
   "version": "0.1.0",
-  "homepage": "https://eirikm.github.io/react-on-ghp-spike",
+  "homepage": "https://react-on-ghp-spike.github.io/",
   "private": true,
   "dependencies": {
     "@supabase/supabase-js": "^1.30.7",
